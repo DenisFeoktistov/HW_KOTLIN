@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "visitorAccountName": "Denis",
+        "finishTime": "2024-03-10T17:12:29.610447",
+        "dishes": [
+            {
+                "name": "Steak",
+                "price": 800.0,
+                "cookingTimeInSeconds": 125
+            }
+        ],
+        "status": "Ready"
+    }
+]
